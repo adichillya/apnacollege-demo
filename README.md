@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first git repo
 <br>
-Author - Aditya Kulkarni
+Author - Aditya Vijay Kulkarni
